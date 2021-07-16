@@ -16,4 +16,4 @@ for i in arr:
     if i < Min :
         Min=i
 
-print(Min, Max) 
+print("최대값:",Min, "최소값:",Max)
